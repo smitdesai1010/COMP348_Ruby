@@ -1,0 +1,2 @@
+type irb in the cmd for cmd programming
+type ruby <filename.rb> for running file
